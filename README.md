@@ -1,5 +1,5 @@
 # 💫 About Me:
-Presently re-engineer one of world’s largest payment card network platform by building low latency, highly reliable edge platform components like Transaction API, Cross Border Payments, Leaser Server as per industry standard payment protocols like ISO8583 and ISO20022.
+passionate technologist trying to make a dent in the world !
 
 
 ## 🌐 Socials:
